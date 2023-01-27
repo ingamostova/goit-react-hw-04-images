@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Form, Header, Field, Btn, Label } from './Searcgbar.styled';
+import { Form, Header, Field, Btn, Label } from './Searchbar.styled';
 
 export const Searchbar = ({ onSubmit }) => {
   const handleSubmit = evt => {
